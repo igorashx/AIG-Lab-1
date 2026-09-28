@@ -1,0 +1,1 @@
+"""Character-level Romanian text generator based on an LSTM."""

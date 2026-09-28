@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/*
+!data/.gitkeep
+.pytest_cache/
+Descriere.txt
+Lab 1.code-workspace

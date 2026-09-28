@@ -1,0 +1,40 @@
+seed: 42
+data:
+  dataset_name: readerbench/ro-stories
+  sequence_unit: sentence
+  sequence_length: 128
+  window_stride: 128
+  split:
+    train: 0.8
+    validation: 0.1
+    test: 0.1
+model:
+  embedding_dim: 128
+  hidden_dim: 256
+  num_layers: 2
+  dropout: 0.2
+training:
+  batch_size: 64
+  learning_rate: 0.001
+  num_epochs: 11
+  patience: 3
+  gradient_clip_norm: 1.0
+  num_workers: 0
+  show_progress: true
+paths:
+  checkpoint_dir: checkpoints
+  output_dir: outputs
+  vocabulary_file: outputs/vocabulary.json
+  history_file: outputs/training_history.json
+  split_file: outputs/split_manifest.json
+  config_file: outputs/config_used.yaml
+  training_summary_file: outputs/training_summary.json
+  plots_dir: outputs/plots
+inference:
+  max_generation_length: 500
+  temperatures:
+  - 0.5
+  - 0.8
+  - 1.0
+  - 1.2
+  seed_text: ''

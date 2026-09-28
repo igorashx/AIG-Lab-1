@@ -1,0 +1,41 @@
+{
+  "completed_epochs": 50,
+  "best_epoch": 47,
+  "best_validation_loss": 1.2789871575890104,
+  "best_validation_perplexity": 3.5929987405014807,
+  "final_train_loss": 1.2929616347528559,
+  "final_validation_loss": 1.279228834547728,
+  "total_training_seconds": 108854.80494839998,
+  "split": {
+    "train": {
+      "works": 988,
+      "paragraphs": 10267,
+      "characters": 12198230,
+      "mean_paragraph_length": 1188.1007110158762,
+      "unknown_characters": 0,
+      "unknown_character_rate": 0.0
+    },
+    "validation": {
+      "works": 123,
+      "paragraphs": 1110,
+      "characters": 1316360,
+      "mean_paragraph_length": 1185.9099099099099,
+      "unknown_characters": 3,
+      "unknown_character_rate": 2.2790118204746423e-06
+    },
+    "test": {
+      "works": 125,
+      "paragraphs": 1139,
+      "characters": 1358341,
+      "mean_paragraph_length": 1192.5733099209833,
+      "unknown_characters": 2,
+      "unknown_character_rate": 1.4723843276467396e-06
+    }
+  },
+  "model": {
+    "vocabulary_size": 200,
+    "parameters_total": 1524936,
+    "parameters_trainable": 1524936,
+    "device": "cpu"
+  }
+}

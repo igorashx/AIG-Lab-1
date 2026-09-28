@@ -1,0 +1,65 @@
+[
+  {
+    "temperature": 0.2,
+    "length": 207,
+    "ended_with_eos": true,
+    "text": "Într-o zi într-o zi se întoarse cu toate că poate să fie de acolo, ca să nu se mai poată întâmpla cu toţii la casa lui şi să se deschidă şi să se deschidă şi să se deschidă şi se deschidea de la capătul de pe pământ.",
+    "unique_characters": 26,
+    "unique_character_ratio": 0.12560386473429952,
+    "repeated_adjacent_pairs": 125
+  },
+  {
+    "temperature": 0.4,
+    "length": 50,
+    "ended_with_eos": true,
+    "text": "Într-o zi într-o zi se strânse în casă în vârful copilului.",
+    "unique_characters": 21,
+    "unique_character_ratio": 0.42,
+    "repeated_adjacent_pairs": 12
+  },
+  {
+    "temperature": 0.6,
+    "length": 217,
+    "ended_with_eos": true,
+    "text": "Într-o zi într-o clipă se întinde în hal, și dete pe cinci mii de oameni care se închideau la stâlpi de fata de pe o parte, în timpul căreia i se părea că e o parte din biserică, care să nu fie frumoasă de ochii săi de la ele.",
+    "unique_characters": 25,
+    "unique_character_ratio": 0.1152073732718894,
+    "repeated_adjacent_pairs": 112
+  },
+  {
+    "temperature": 0.8,
+    "length": 111,
+    "ended_with_eos": true,
+    "text": "Într-o zi într-o clipă se întinde în hal, și dete pe cinci mii de oameni în soare, ca dintr-o stradă de fata, care opri.",
+    "unique_characters": 22,
+    "unique_character_ratio": 0.1981981981981982,
+    "repeated_adjacent_pairs": 45
+  },
+  {
+    "temperature": 1.0,
+    "length": 78,
+    "ended_with_eos": true,
+    "text": "Într-o zi într-o clipă se îndeasă în hal, și din totul era foarte mare; şi nişte flori.",
+    "unique_characters": 25,
+    "unique_character_ratio": 0.32051282051282054,
+    "repeated_adjacent_pairs": 12
+  },
+  {
+    "temperature": 1.2,
+    "length": 16,
+    "ended_with_eos": true,
+    "text": "Într-o zi îngrijiră Ivan.",
+    "unique_characters": 12,
+    "unique_character_ratio": 0.75,
+    "repeated_adjacent_pairs": 0
+  },
+  {
+    "temperature": 1.4,
+    "length": 16,
+    "ended_with_eos": true,
+    "text": "Într-o zi îngrijiră Ivan.",
+    "unique_characters": 12,
+    "unique_character_ratio": 0.75,
+    "repeated_adjacent_pairs": 0
+  }
+]
